@@ -17,6 +17,9 @@ public class Person
 	#endregion /Constructor
 
 	#region public int Age { get; set; }
+	/// <summary>
+	/// سن
+	/// </summary>
 	private int _age;
 
 	/// <summary>
@@ -39,6 +42,9 @@ public class Person
 	#endregion /public int Age { get; set; }
 
 	#region public int Salary { get; private set; }
+	/// <summary>
+	/// حقوق
+	/// </summary>
 	private int _salary;
 
 	/// <summary>

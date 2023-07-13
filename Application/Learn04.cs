@@ -68,7 +68,5 @@ public static class Program
 
 	//	System.Console.Write
 	//		(value: "Press [ENTER] To Exit... ");
-
-	//	System.Console.ReadLine();
 	//}
 }

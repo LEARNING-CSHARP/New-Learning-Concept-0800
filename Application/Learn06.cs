@@ -37,10 +37,13 @@ public class Person
 	public int SomeProperty2 { get; }
 
 	#region public int Salary { get; set; }
+	/// <summary>
+	/// حقوق شخص
+	/// </summary>
 	private int _salary;
 
 	/// <summary>
-	/// 
+	/// حقوق شخص
 	/// </summary>
 	public int Salary
 	{
